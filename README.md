@@ -1,8 +1,10 @@
-![20240430_131139](https://github.com/DangSys/Grafana/assets/168504365/91e35a4a-a855-446f-b073-16458c887ba9)# Grafana
+# Grafana
 Monitoring(Grafana) + DataSource(Prometheus)
 ****
 Me with fav cf.
-![20240430_131139](https://github.com/DangSys/Grafana/assets/168504365/14c31482-c9df-45b0-9d78-bd576a2c7a2d)
+<img src="![20240430_131139](https://github.com/DangSys/Grafana/assets/168504365/14c31482-c9df-45b0-9d78-bd576a2c7a2d)" width="200" height="400" />
+
+
 #############################################
 Eat, Coffee, Config and Repeat.
 #############################################
