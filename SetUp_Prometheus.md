@@ -27,7 +27,10 @@
 
 <h3>Web interface of Prometheus</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/58e1f62c-29b2-46a4-a7df-1483787df5d7" width=500, height=375/>
-![9_Web_interface_Prometheus](https://github.com/DangSys/Grafana/assets/168504365/58e1f62c-29b2-46a4-a7df-1483787df5d7)
+
+<h3>Default Metrics of Prometheus Daemon</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/9d73a47f-e05d-42b2-b275-85c164e3bf60" width=500, height=375/>
+![10_Metrics_Prometheus_daemon](https://github.com/DangSys/Grafana/assets/168504365/9d73a47f-e05d-42b2-b275-85c164e3bf60)
 
 
 
