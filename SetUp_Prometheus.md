@@ -1,4 +1,2 @@
-<img src="https://ibb.co/60ZQryF"/>
-
-<img src="https://drive.google.com/drive/folders/1tzzt6dc-hIL3SfyIjRn0AkGO05HY7Zx4"/>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/9d1060dd-0400-4497-98a4-7993f5aa3749" />
 
