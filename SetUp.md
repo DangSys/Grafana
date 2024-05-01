@@ -6,3 +6,6 @@
 <h3>Then, Downloading Grafana</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/f7686aef-c053-4691-adaf-d365c76e315b" width=500, height=375/>
 
+<h3>Web Interface of Grafana</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/de5f2607-980d-4be9-a920-87ba858543fa" width=500, height=375/>
+
