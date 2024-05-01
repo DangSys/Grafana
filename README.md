@@ -1,5 +1,5 @@
 # Grafana
-Monitoring(Grafana) + DataSource(Prometheus) 
+Monitoring + Alerting (Grafana) + DataSource (Prometheus) 
 
 *****************************************************************
 *****************************************************************
