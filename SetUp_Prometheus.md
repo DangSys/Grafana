@@ -6,5 +6,6 @@
 <img src="https://github.com/DangSys/Grafana/assets/168504365/cc36a087-60f3-442b-986d-03bf8fbc9771" width=500, height=375 />
 
 <h3>Unpack Prometheus</h3>
-<img src="https://https://github.com/DangSys/Grafana/assets/168504365/81bcbfd6-16fd-43c8-8717-8a9e59abc451" width=500, height=375 />
+<img src="https://github.com/DangSys/Grafana/assets/168504365/3d6664d1-06df-496b-9a92-578c360547b6" width=500, height=375 />
 
+![3_GiaiNen_Prometheus](https://github.com/DangSys/Grafana/assets/168504365/3d6664d1-06df-496b-9a92-578c360547b6)
