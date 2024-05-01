@@ -9,4 +9,4 @@
 <h3>Web Interface of Grafana</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/de5f2607-980d-4be9-a920-87ba858543fa" width=500, height=375/>
 
-<img src="https://drive.google.com/file/d/19bylMzvHYs4IEwTTggOS8i6M8wnqhOKk/view"/>
+<img src="https://drive.google.com/drive/folders/1tzzt6dc-hIL3SfyIjRn0AkGO05HY7Zx4"/>
