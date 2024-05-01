@@ -16,5 +16,13 @@
 <h3>Moving Prometheus files to system directory of Prometheus</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/dd9f71e6-365c-4f34-92a2-03e2745a966a" width=500, height=375 />
 
+<h3>Changing owner of Prometheus refs into Prometheus user and Prometheus Group</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/846d2fce-06ef-4be0-8674-0c64f86d2bce" width=500, height=375 />
+![6_Change_owner_group_Prometheus_refs](https://github.com/DangSys/Grafana/assets/168504365/846d2fce-06ef-4be0-8674-0c64f86d2bce)
+
+<h3>Enabling and Starting Prometheus daemons</h3>
+![7_Enable_Start_Prometheus_daemon](https://github.com/DangSys/Grafana/assets/168504365/5e35dd88-951b-42d9-8989-3e862854c265)
+
+
 
 
