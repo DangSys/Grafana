@@ -24,8 +24,10 @@
 
 <h3>Checking status of Prometheus daemon</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/26de4865-ab17-4471-b083-e3028467e1fe" width=500, height=375 />
-![8_KiemTraTrangThai_Prometheus](https://github.com/DangSys/Grafana/assets/168504365/26de4865-ab17-4471-b083-e3028467e1fe)
 
+<h3>Web interface of Prometheus</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/58e1f62c-29b2-46a4-a7df-1483787df5d7" width=500, height=375/>
+![9_Web_interface_Prometheus](https://github.com/DangSys/Grafana/assets/168504365/58e1f62c-29b2-46a4-a7df-1483787df5d7)
 
 
 
