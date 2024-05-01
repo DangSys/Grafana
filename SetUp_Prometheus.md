@@ -18,10 +18,14 @@
 
 <h3>Changing owner of Prometheus refs into Prometheus user and Prometheus Group</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/846d2fce-06ef-4be0-8674-0c64f86d2bce" width=500, height=375 />
-![6_Change_owner_group_Prometheus_refs](https://github.com/DangSys/Grafana/assets/168504365/846d2fce-06ef-4be0-8674-0c64f86d2bce)
 
 <h3>Enabling and Starting Prometheus daemons</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/5e35dd88-951b-42d9-8989-3e862854c265" width=500, height=375 />
+
+<h3>Checking status of Prometheus daemon</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/26de4865-ab17-4471-b083-e3028467e1fe" width=500, height=375 />
+![8_KiemTraTrangThai_Prometheus](https://github.com/DangSys/Grafana/assets/168504365/26de4865-ab17-4471-b083-e3028467e1fe)
+
 
 
 
