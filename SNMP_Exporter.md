@@ -6,9 +6,14 @@
 
 <h3>Config file snmp-exporter.service</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/8869bc60-ce4c-40c2-952e-45879f4ee9cb" width=700, height=375/>
+
 <h3>Checking SNMP Exporter service</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/a74756a6-5a84-4b45-ae33-162514f1e5b9" width=700, height=375 />
-![4_Checking_SNMP_Exporter_Service](https://github.com/DangSys/Grafana/assets/168504365/a74756a6-5a84-4b45-ae33-162514f1e5b9)
+
+<h3>Configuring Prometheus.yml</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/43005302-ac84-43ee-b86b-9acb16df3ea6" width=700, height=375 />
+![5_Config_Prometheus yml](https://github.com/DangSys/Grafana/assets/168504365/43005302-ac84-43ee-b86b-9acb16df3ea6)
+
 
 
 
