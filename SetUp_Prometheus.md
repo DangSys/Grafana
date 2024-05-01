@@ -12,4 +12,9 @@
 <p>Move Prometheus and Promtool executable files to /usr/local/bin to call from any where</p>
 <p>Checking version of Prometheus and Promtool</p>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/c54b57b5-baac-4727-add2-26adf3a80629" width=500, height=375 />
-![4_Move_exec_file_to_call_from_any_where](https://github.com/DangSys/Grafana/assets/168504365/c54b57b5-baac-4727-add2-26adf3a80629)
+
+<h3>Moving Prometheus files to system directory of Prometheus</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/dd9f71e6-365c-4f34-92a2-03e2745a966a" width=500, height=375 />
+
+
+
