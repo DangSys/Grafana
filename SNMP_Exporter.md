@@ -3,6 +3,9 @@
 
 <h3>Copy Executable file and YML file into /usr/local/bin </h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/66404aa0-dabe-4e68-9fc0-968aed4f4256" width=700, height=375/>
-![2_Copy Exec file and YML file ](https://github.com/DangSys/Grafana/assets/168504365/66404aa0-dabe-4e68-9fc0-968aed4f4256)
+
+<h3>Config file snmp-exporter.service</h3>
+![3_Config file snmp_exporter service](https://github.com/DangSys/Grafana/assets/168504365/8869bc60-ce4c-40c2-952e-45879f4ee9cb)
+
 
 
