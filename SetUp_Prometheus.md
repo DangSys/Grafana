@@ -21,7 +21,8 @@
 ![6_Change_owner_group_Prometheus_refs](https://github.com/DangSys/Grafana/assets/168504365/846d2fce-06ef-4be0-8674-0c64f86d2bce)
 
 <h3>Enabling and Starting Prometheus daemons</h3>
-![7_Enable_Start_Prometheus_daemon](https://github.com/DangSys/Grafana/assets/168504365/5e35dd88-951b-42d9-8989-3e862854c265)
+<img src="https://github.com/DangSys/Grafana/assets/168504365/5e35dd88-951b-42d9-8989-3e862854c265" width=500, height=375 />
+
 
 
 
