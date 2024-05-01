@@ -16,6 +16,10 @@ Monitoring + Alerting (Grafana) + DataSource (Prometheus)
 <h5>Anyway, this coffee is so great.</h5>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/637d1ce0-6341-4cfe-be03-1af9799f2612" width=300 height=400 />
 
+<h5>11:18PM Root cause: Error configuration of YML file</h5>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/95a90ff1-3dc6-4641-9855-72064f257746" width=600 height=375 />
+
+
 
 
 
