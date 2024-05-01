@@ -8,4 +8,8 @@
 <h3>Unpack Prometheus</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/3d6664d1-06df-496b-9a92-578c360547b6" width=500, height=375 />
 
-![3_GiaiNen_Prometheus](https://github.com/DangSys/Grafana/assets/168504365/3d6664d1-06df-496b-9a92-578c360547b6)
+<h3>Checking Prometheus version</h3>
+<p>Move Prometheus and Promtool executable files to /usr/local/bin to call from any where</p>
+<p>Checking version of Prometheus and Promtool</p>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/c54b57b5-baac-4727-add2-26adf3a80629" width=500, height=375 />
+![4_Move_exec_file_to_call_from_any_where](https://github.com/DangSys/Grafana/assets/168504365/c54b57b5-baac-4727-add2-26adf3a80629)
