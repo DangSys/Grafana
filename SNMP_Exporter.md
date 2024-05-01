@@ -1,5 +1,5 @@
 <h3>Git clone SNMP Exporter source code from github</h3>
-<img src=https://github.com/DangSys/Grafana/assets/168504365/98228b67-c56f-4ea9-9f0d-91819756b76c" width=500, height=375/>
+<img src=https://github.com/DangSys/Grafana/assets/168504365/98228b67-c56f-4ea9-9f0d-91819756b76c" width=600, height=375/>
 
 ![1_Download_SNMP_Exporter](https://github.com/DangSys/Grafana/assets/168504365/98228b67-c56f-4ea9-9f0d-91819756b76c)
 
