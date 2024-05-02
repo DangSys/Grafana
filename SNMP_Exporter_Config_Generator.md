@@ -7,9 +7,6 @@
 <h3>Cloning SNMP-Exporter source code from Prometheus public repository</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/e6f915c3-4195-4f62-b5c2-3c6ef7c59d73" width=600, height=375 />
 
-<h3>Export Go Path</h3>
-<img src="https://github.com/DangSys/Grafana/assets/168504365/2ab0f263-b380-4b3b-94c4-4c731613f44d" width=600, height=375/>
-
 <h3>Make generate mibs</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/e5f14502-bc07-4c8e-959d-f3f745cabae7"  width=600, height=375/>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/aec3644c-394c-4749-a6fd-740762ad046c" width=600, height=375/>
@@ -22,4 +19,11 @@
 
 <h3>Output snmp.yml</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/7d9ab56f-b5f1-4151-846a-95f583a9e0c3" width=600, height=375 />
+
+<h3>Can't not start SNMP-Exporter</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/0fbe6177-7537-41de-ba4b-4a920366b903" width=600, height=375 />
+
+<h3>This is due to parsing error of generated yml. Maybe version of SNMP-Exporter or sth</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/2023ed15-c1d1-4acd-b4e0-016a67b58dc0" width=600, height=375 />
+
 
