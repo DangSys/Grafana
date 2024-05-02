@@ -19,7 +19,8 @@ Monitoring + Alerting (Grafana) + DataSource (Prometheus)
 <h5>11:18PM Root cause: Error configuration of YML file</h5>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/95a90ff1-3dc6-4641-9855-72064f257746" width=600 height=375 />
 
-
+<h2>Main_Step</h2>
+<h2>First, we need to install GoLang packet for Ubuntu, then we using Generator tool developed by GoLang to generate Cisco Modules, testing Cisco metrics on Prometheus, and finally import data, create custom dashboadrd on Grafana</h3>
 
 
 
