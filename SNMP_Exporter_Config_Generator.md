@@ -26,4 +26,7 @@
 <h3>This is due to parsing error of generated yml. Maybe version of SNMP-Exporter or sth</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/2023ed15-c1d1-4acd-b4e0-016a67b58dc0" width=600, height=375 />
 
+<h3>Source code bugs due to Go version, it makes me calm down my life. make my character more stable</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/42473026-9944-4343-9adb-ecd7e80c2038" width=600, height=375 />
+
 
