@@ -30,6 +30,9 @@
 <img src="https://github.com/DangSys/Grafana/assets/168504365/42473026-9944-4343-9adb-ecd7e80c2038" width=600, height=375 />
 
 <h3>Fixing it by installing new libary</h3>
-![Screenshot from 2024-05-09 19-50-56](https://github.com/DangSys/Grafana/assets/168504365/7dcc1a47-03ed-420c-81d4-a3f39a79c623)
+<img src="https://github.com/DangSys/Grafana/assets/168504365/7dcc1a47-03ed-420c-81d4-a3f39a79c623">
+
+<h3>Source code of SNMP Exporter still have errors after i install newest versio and comment so many variable in net_snmp.go. So i think i will 
+test some tutorial on youtube after all. Maybe udemy is the last resort</h3>
 
 
