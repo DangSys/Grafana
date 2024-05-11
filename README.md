@@ -22,7 +22,7 @@ Monitoring + Alerting (Grafana) + DataSource (Prometheus)
 <h2>Main_Step</h2>
 <h2>First, we need to install GoLang packet for Ubuntu, then we using Generator tool developed by GoLang to generate Cisco Modules, testing Cisco metrics on Prometheus, and finally import data, create custom dashboadrd on Grafana</h3>
 
-<h3>Changing environment make me more productive, yeahhh finally i find useful tutorial, on the platform youtube after i've made tons of time to search on other platforms</h3>
+<h3>Changing environment make me more productive (Three O'lock Tran Hung Dao Str., Dist.5, not on Nguyen Thi Minh Khai Str., yeahhh finally i find useful tutorial, on the platform youtube after i've made tons of time to search on other platforms</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/1aef9322-baef-465b-8dd5-cdbb6d3c385d" width=600 height=375 />
 
 <h3>Good friends beside drink a lot of coffee, good character, good frds :D</h3>
