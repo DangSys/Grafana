@@ -39,6 +39,9 @@ Monitoring + Alerting (Grafana) + DataSource (Prometheus)
 <h3>Why we need detailed documentation, the same case as Asterisk VoIP </h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/d5d3bd85-42bb-4b27-880d-e7c82688efa2" width=900 height=375 />
 
+<h3>CCNP Value</h3>
+![Screenshot from 2024-05-13 17-17-08](https://github.com/DangSys/Grafana/assets/168504365/deb291ea-9428-426c-abcb-a4966962ddfa)
+
 
 <h3>Good day to you</h3>
 
