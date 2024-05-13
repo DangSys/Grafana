@@ -48,7 +48,7 @@ test some tutorial on youtube after all. Maybe udemy is the last resort</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/fb44b3c5-9254-4e75-aed9-aca785accecc" width=900 height=375 />
 
 <h3>May chu chien quoa</h3>
-<img src="https://github.com/DangSys/Grafana/assets/168504365/ed0fc7b6-bb61-4044-bad4-f2c565ed37a3" width=600 height=375 />
+<img src="https://github.com/DangSys/Grafana/assets/168504365/ed0fc7b6-bb61-4044-bad4-f2c565ed37a3" width=900 height=375 />
 ![Screenshot from 2024-05-13 17-25-31](https://github.com/DangSys/Grafana/assets/168504365/ed0fc7b6-bb61-4044-bad4-f2c565ed37a3)
 
 
