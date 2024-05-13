@@ -32,6 +32,11 @@ Monitoring + Alerting (Grafana) + DataSource (Prometheus)
 <img src="https://github.com/DangSys/Grafana/assets/168504365/b072ef69-9842-4256-94b4-44fe55384d03" width=600 height=375 />
 
 <h3>Next: Trying to figure what version the tutor used</h3>
+
+<h3>Solarwinds looks good</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/56e1b4a7-032e-4266-886a-f954adf3dc4f" width=600 height=375 />
+
+
 <h3>Good day to you</h3>
 
 
