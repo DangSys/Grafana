@@ -42,6 +42,8 @@ Monitoring + Alerting (Grafana) + DataSource (Prometheus)
 <h3>CCNP Value</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/deb291ea-9428-426c-abcb-a4966962ddfa" width=600 height=375 />
 
+<h3>DevOps need yaml</h3>
+![Screenshot from 2024-05-13 17-32-51](https://github.com/DangSys/Grafana/assets/168504365/1df6ab0b-2f49-41af-8a71-d573c56e95c5)
 
 
 <h3>Good day to you</h3>
