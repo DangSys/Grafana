@@ -38,7 +38,6 @@ Monitoring + Alerting (Grafana) + DataSource (Prometheus)
 
 <h3>Why we need detailed documentation, the same case as Asterisk VoIP </h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/d5d3bd85-42bb-4b27-880d-e7c82688efa2" width=900 height=375 />
-![Screenshot from 2024-05-13 11-51-14](https://github.com/DangSys/Grafana/assets/168504365/d5d3bd85-42bb-4b27-880d-e7c82688efa2)
 
 
 <h3>Good day to you</h3>
