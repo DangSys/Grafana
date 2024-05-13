@@ -38,5 +38,7 @@ test some tutorial on youtube after all. Maybe udemy is the last resort</h3>
 <h3>Done with snmp_generator.yml, but i can't find OID of virtual router C3725 on EVE-NG</h3>
 <img src="https://github.com/DangSys/Grafana/assets/168504365/dc1cd06a-5c9c-4a47-b3cd-fbe4664d9b57" width=900 height=375 />
 
+<h3>Cannot query SNMP information using snmpwalk</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/fb44b3c5-9254-4e75-aed9-aca785accecc" width=900 height=375 />
 
 
