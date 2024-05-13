@@ -35,4 +35,8 @@
 <h3>Source code of SNMP Exporter still have errors after i install newest versio and comment so many variable in net_snmp.go. So i think i will 
 test some tutorial on youtube after all. Maybe udemy is the last resort</h3>
 
+<h3>Done with snmp_generator.yml, but i can't find OID of virtual router C3725 on EVE-NG</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/dc1cd06a-5c9c-4a47-b3cd-fbe4664d9b57" width=600 height=375 />
+
+
 
