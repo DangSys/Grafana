@@ -43,8 +43,16 @@ Monitoring + Alerting (Grafana) + DataSource (Prometheus)
 <img src="https://github.com/DangSys/Grafana/assets/168504365/deb291ea-9428-426c-abcb-a4966962ddfa" width=600 height=375 />
 
 <h3>DevOps need yaml</h3>
-![Screenshot from 2024-05-13 17-32-51](https://github.com/DangSys/Grafana/assets/168504365/1df6ab0b-2f49-41af-8a71-d573c56e95c5)
+<img src="https://github.com/DangSys/Grafana/assets/168504365/1df6ab0b-2f49-41af-8a71-d573c56e95c5" width=600 height=375 />
 
+<h3>A little update: We need to build SNMP-Exporter-Config-Generator again :D</h3>
+<img src="https://github.com/DangSys/Grafana/assets/168504365/42473026-9944-4343-9adb-ecd7e80c2038" width=600, height=375 />
+
+<h3>It is due to Source code error, go version differences</h3>
+<img src="https://github.com/DangSys/DangSys/assets/168504365/1ec5ccef-3180-499f-89b0-f874b2bbe914" wid=600, height=375 />
+
+<h3>Everything will passed, like past year, but i will miss this memory: Sitting favorate chair in Garage TD, calm my self and config everything</h3>
+<h3>But the cf is too strong, go home !!</h3>
 
 <h3>Good day to you</h3>
 
